@@ -1,4 +1,4 @@
-My first readme
+Enjoy learning
 
 *C
 cd alx-pre_course
